@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="java.core.Polimorfismo"/>
+	<classpathentry kind="src" path="java.core.Heranca"/>
+	<classpathentry kind="src" path="java.core.ClasseAbstratas"/>
+	<classpathentry kind="src" path="java.core.Interfaces"/>
+	<classpathentry kind="src" path="java.core.Enums"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
